@@ -36,7 +36,7 @@ public class App {
 		System.out.println("Head of queue is: " + q1.element());
 		
 		
-		
+
 		
 		Queue<Integer> q2 = new ArrayBlockingQueue<Integer>(2);
 
